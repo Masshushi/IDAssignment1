@@ -13,7 +13,7 @@ Wireframe: https://xd.adobe.com/view/fda616c6-8bda-49f8-8efa-9011f2ab009b-a8f5/
 Homepage, where visitors can navigate to the various pages
 Profiles, a short description of myself
 Artworks, webpage featuring some of my art
-Contact me, a page with my contact details.
+Contact me, a webpage with my contact details as well as a form for any submissions.
 
 ## Credits
 
