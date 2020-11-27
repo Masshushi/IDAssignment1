@@ -73,7 +73,7 @@ footer{
     font-family: 'Oswald', sans-serif;
     color: #523A3A;
     font-size: 3vw;
-    padding-top: 5vw;
+    padding-top: 10vw;
 }
 
 .profile-home a h2{
@@ -98,6 +98,7 @@ footer{
     color: #C68A8A;
     margin-left: 2vw;
     margin-right: 2vw;
+    margin-bottom: 0vw;
     padding: 20px;
     text-align: center;
     font-size: 5vw;
@@ -119,6 +120,8 @@ footer{
     color: #824B4B;
     font-size: 10vw;
     padding-bottom: 50px;
+    margin-top: 0vw;
+    margin: 5vw;
 }
 
 .nav a h2{
@@ -133,7 +136,7 @@ footer{
     vertical-align: auto;
     width: 45%;
     margin-left: 5px;
-    padding-top: 20px;
+    padding-top: 5vw;
 }
 
 
@@ -207,8 +210,67 @@ form{
     padding: 1em;
     border-radius: 5px;
     background: #CFAEAE;
+    line-height: 2;
+}
+
+.contact{
+    text-align:center;
+}
+
+.contact-container{
+    width: 80%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1em;
+    border-radius: 5px;
+    background: #795f5f;
+    line-height: 2;
+}
+
+.contact-container p{
+    color: #fce9dc;
+    font-size: 5vw;
+    text-align:left;
+}
+
+.contact h3{
+    color: #C68A8A;
+    padding-top: 5vw;
+    padding-bottom: 2vw;
+    font-size: 7vw;
 }
 
 label{
-    
+    color: #faf9ec;
+    font-family: 'Oswald', sans-serif;
+    font-size: 5vw;
+}
+
+button{
+    padding: 2vw;
+    padding-top:0vw;
+    padding-bottom:0vw;
+    background: #9b7f7f;
+}
+
+button h2{
+    color: rgb(77, 54, 54);
+    font-size: 3vw;
+}
+
+input{
+    padding-bottom:5vw;
+    width: 40%;
+}
+
+.space{
+    padding: 3vw;
+}
+
+
+@media screen and (max-width: 576px){
+    .nav h1{
+      margin: 2vw;
+    }
 }
