@@ -23,44 +23,81 @@ h2{
     text-align: center;
     font-family: 'Oswald', sans-serif;
     color: #F8FAE7;
+    font-size: 8vw;
 }
 
 h1{
     text-align: center;
     color: #824B4B;
-
 }
 
+
 .profile-title{
-    font-size: 70px;
+    font-size: 18vw;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 
 .contact-title{
-
+    font-size: 18vw;
+    margin-top:10px;
+    margin-bottom:10px;
+    color:#846969;
 }
 
 .art-title{
-
+    font-size: 18vw;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 
+.introduction{
+    margin-top:1px;
+    text-align: center;
+    color: #F8FAE7;
+    font-size: 5vw;
+}
+
+.profile-content{
+    width: 55%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1.5em;
+    background: #A58C8C;
+    border-radius: 5px;
+}
 
 footer{
     text-align: center;
     font-family: 'Oswald', sans-serif;
     color: #523A3A;
+    font-size: 3vw;
+    padding-top: 5vw;
 }
 
 .profile-home a h2{
     text-align: center;
-    font-size: 4vm;
+    font-size: 10vw;
     font-family: 'Oswald', sans-serif;
 }
 
+.contact-home a h2{
+    text-align: center;
+    font-size: 10vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+.art-home a h2{
+    text-align: center;
+    font-size: 10vw;
+    font-family: 'Oswald', sans-serif;
+}
 
 .brief-desc{
     color: #C68A8A;
     margin-left: 2vw;
-    margin-right: 2v;
+    margin-right: 2vw;
     padding: 20px;
     text-align: center;
     font-size: 5vw;
@@ -100,7 +137,6 @@ footer{
 }
 
 
-
 .min-jiang-kueh{
     width:40%;
     display: block;
@@ -113,6 +149,7 @@ footer{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 2em;
 }
 
 .kueh-lapis{
@@ -120,4 +157,58 @@ footer{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 8vw;
+}
+
+.general{
+    width: 80%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.school{
+    width: 80%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.vent{
+    width: 80%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.general img{
+    width: 100%;
+}
+
+.school img{
+    width: 100%;
+}
+
+.vent img{
+    width: 100%;
+}
+
+form{
+    width: 80%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1em;
+    border-radius: 5px;
+    background: #CFAEAE;
+}
+
+label{
+    
 }
