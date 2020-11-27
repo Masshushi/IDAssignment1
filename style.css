@@ -18,15 +18,81 @@
     width:100%;
 }
 
+
+h2{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #F8FAE7;
+    font-size: 70px;
+}
+
+h1{
+    text-align: center;
+    color: #824B4B;
+    font-size: 70px;
+}
+
+.brief-desc{
+    color: #C68A8A;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    text-align: center;
+}
+
+.nav {
+    width: 95%;
+    position: relative;
+    text-align: center;
+    margin: 80px auto 0;
+    padding: 1.5em;
+    border-radius: 5px;
+}
+
+
+a .min-jiang-kueh{
+    vertical-align: auto;
+    width: 45%;
+    margin-left: 5px;
+}
+
+a .ang-ku-kueh{
+    vertical-align: auto;
+    width: 45%;
+    padding-top: 40px;
+    margin-left: 5px;
+}
+
+a .kueh-lapis{
+    vertical-align: auto;
+    width: 45%;
+    padding-top: 40px;
+    margin-left: 5px;
+}
+
+a h2{
+    color: #B97A7A;
+    margin-right: 5px;
+}
+
+
 .min-jiang-kueh{
-    width:50%;
+    width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .ang-ku-kueh{
-    width:50%;
+    width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .kueh-lapis{
-    width:50%;
+    width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
