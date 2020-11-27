@@ -23,14 +23,39 @@ h2{
     text-align: center;
     font-family: 'Oswald', sans-serif;
     color: #F8FAE7;
-    font-size: 70px;
 }
 
 h1{
     text-align: center;
     color: #824B4B;
+
+}
+
+.profile-title{
     font-size: 70px;
 }
+
+.contact-title{
+
+}
+
+.art-title{
+
+}
+
+
+footer{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #523A3A;
+}
+
+.profile-home a h2{
+    text-align: center;
+    font-size: 4vm;
+    font-family: 'Oswald', sans-serif;
+}
+
 
 .brief-desc{
     color: #C68A8A;
