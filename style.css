@@ -100,8 +100,10 @@ footer{
     margin-right: 2vw;
     margin-bottom: 0vw;
     padding: 20px;
+    padding-bottom:0vw;
     text-align: center;
     font-size: 5vw;
+    border:0vw;
 }
 
 .nav {
@@ -111,7 +113,6 @@ footer{
     margin: 80px auto 0;
     padding: 1em;
     border-radius: 5px;
-    
 }
 
 .nav h1{
@@ -269,8 +270,3 @@ input{
 }
 
 
-@media screen and (max-width: 576px){
-    .nav h1{
-      margin: 2vw;
-    }
-}
